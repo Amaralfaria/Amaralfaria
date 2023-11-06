@@ -8,6 +8,14 @@ Hi! I'm Lucas, a passionate software developer from Brazil and currently a compu
 
 <hr/>
 
+<h2 align="center">⚒️ My Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,css,html,flask,react,mysql" />
+</div>
+
+<hr/>
+
 <h2 align="center">My stats</h2>
 <br>
 <div align=center>
