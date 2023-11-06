@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Amaral!;" />
 </h1>
 
-<hr/>
+
 
 Hi! I'm Lucas, a passionate software developer from Brazil and currently a computer science undergraduate at Universidade de Brasília 🔭.
 
-<hr/>
+
 
 <h2 align="center">⚒️ My Tools ⚒️</h2>
 <br/>
@@ -14,7 +14,7 @@ Hi! I'm Lucas, a passionate software developer from Brazil and currently a compu
     <img src="https://skillicons.dev/icons?i=cpp,py,java,js,css,html,flask,react,mysql" />
 </div>
 
-<hr/>
+
 
 <h2 align="center">My stats</h2>
 <br>
@@ -24,7 +24,6 @@ Hi! I'm Lucas, a passionate software developer from Brazil and currently a compu
 </div>
 
 <br/><br/>
-<hr/>
 
 <!--
 **Amaralfaria/Amaralfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
