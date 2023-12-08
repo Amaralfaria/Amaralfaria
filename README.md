@@ -11,7 +11,7 @@ Hi! I'm Lucas, a passionate software developer from Brazil and currently a compu
 <h2 align="center">⚒️ My Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,css,html,flask,react,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,css,html,flask,django,react,mysql" />
 </div>
 
 
